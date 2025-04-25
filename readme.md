@@ -6,7 +6,7 @@ A loja foi construída utilizando a plataforma **Shopify**, com foco em **produt
 
 ---
 
-🛠️ **Este projeto foi desenvolvido como parte de uma avaliação técnica para uma vaga de Front-End.**  
+🛠️ **Este projeto foi desenvolvido como parte de uma avaliação técnica.**  
 A proposta foi criar uma loja virtual com foco em design, experiência do usuário e integração com ferramentas externas via Shopify.
 
 ## 🚀 Tecnologias e Recursos Utilizados
